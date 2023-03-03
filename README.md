@@ -7,15 +7,19 @@ Hold out, Developer!
 
 ## Skills
 *_languages_*
+
 Java, Python, Go, Bash, PHP
 
 *_Programming Skills_*
+
 Test Driven Development, SVC
 
 *_Backend Admin_*
+
 VPS admin, Webhosting Admin
 
 *_WordPress_*
+
 Admin, Template Editing, Content Management
 
 <!---
