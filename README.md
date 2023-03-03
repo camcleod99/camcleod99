@@ -6,20 +6,16 @@ The Developer has a nap!
 Hold out, Developer!
 
 ## Skills
-*_languages_*
-
+###languages###
 Java, Python, Go, Bash, PHP
 
-*_Programming Skills_*
+###Programming Skills###
+Test Driven Development, SVC, Git
 
-Test Driven Development, SVC
+###Backend Admin###
+VPS admin, Hosting Admin
 
-*_Backend Admin_*
-
-VPS admin, Webhosting Admin
-
-*_WordPress_*
-
+###WordPress###
 Admin, Template Editing, Content Management
 
 <!---
