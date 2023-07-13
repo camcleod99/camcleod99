@@ -7,10 +7,13 @@ Hold out, Developer!
 
 ## Skills
 ### Languages
-Java, Python, Go, Bash, PHP
+Java, Javascript, Python, Go, Bash, PHP
 
 ### Programming Skills
 Test Driven Development, SVC, Git
+
+### Fronend Development
+React, Astro
 
 ### Backend Admin
 VPS admin, Hosting Admin
