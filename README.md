@@ -5,6 +5,12 @@ The Developer has a nap!
 
 Hold out, Developer!
 
+## Current Project
+*In Between Projects Right now*
+
+## Next Project
+WordWheel - a Website that creates wordwheel puzzles
+
 ## Skills
 ### Languages
 Java, Javascript, Python, Go, Bash, PHP
