@@ -8,7 +8,7 @@ Hold out, Developer!
 ## Current Project
 *In Between Projects Right now*
 
-## Next Project
+## Next Project
 WordWheel - a Website that creates wordwheel puzzles
 
 ## Skills
