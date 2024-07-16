@@ -6,10 +6,7 @@ The Developer has a nap!
 Hold out, Developer!
 
 ## Current Project
-*In Between Projects Right now*
-
-## Next Project
-WordWheel - a Website that creates wordwheel puzzles
+SVKabanDon - A Kanban Board built in Svelte
 
 ## Skills
 ### Languages
