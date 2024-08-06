@@ -2,7 +2,7 @@
 _*Developer, Web-admin, Future Facing*_
 
 ## CV
-Click [here](#) to download the latest version of my CV
+Click [here](https://github.com/camcleod99/camcleod99/blob/86ff4c0d9ef790ca31bb90a3c12d4ac1f9c2dc84/CV_2024.pdf) to download the latest version of my CV
 
 ## About Me
 With over a decade of experience as a Web-based Software Engineer, I have honed
