@@ -1,28 +1,34 @@
 # Craig A. McLeod
-_*Developer, Web-admin, Smart-alek*_
+_*Developer, Web-admin, Future Facing*_
 
-The Developer has a nap!
+## About Me
 
-Hold out, Developer!
+With over a decade of experience as a Web-based Software Engineer, I have honed
+my skills and expertise in the dynamic field of web development. By day, I am
+a dedicated website administrator for a prominent uniformed youth organization
+in the picturesque landscapes of Scotland. In my spare time, I channel my passion
+into my own Web development business, collaborating with a diverse array of
+clients across Scotland to enhance their digital operations and drive success.
 
-## Current Project
-SVKabanDon - A Kanban Board built in Svelte
+I am now seeking a thrilling opportunity that will enable me to relocate to
+the enchanting Netherlands, a country that has captured my heart with its vibrant
+culture, picturesque scenery, and innovative spirit.
+
+Additionally, I am deeply intrigued by the transformative potential of machine
+language models and their applications, or "AI", as marketing indivials have
+named them. I am keen on exploring how its proper application can serve as a
+genuine boon to society and individual content creators, driving progress and
+innovation in our ever-changing digital age.
 
 ## Skills
-### Languages
-Java, Javascript, Python, Go, Bash, PHP
 
-### Programming Skills
-Test Driven Development, SVC, Git
+| Skill          | About                           | Since |
+| -------------- | ------------------------------- | ----- |
+| PHP            | For WordPress                   | 2009  |
+| Node JS        | Development of Web Applications | 2015  |
+| Python         | Scripting                       | 2019  |
+| Git and GitHub | Project Management              | 2020  |
 
-### Fronend Development
-React, Astro
-
-### Backend Admin
-VPS admin, Hosting Admin
-
-### WordPress
-Admin, Template Editing, Content Management
 
 <!---
 camcleod99/camcleod99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
