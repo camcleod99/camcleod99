@@ -23,20 +23,14 @@ genuine boon to society and individual content creators, driving progress and
 innovation in our ever-changing digital age.
 
 ## Skills
-|                |               |           |
-| -------------- | --------------| --------- |
-| PHP            | Linux         | Frontend  |
-| Node JS        | HomeLab       | Backend   |
-| Python         | Network Admin | Sys Admin |
-| Git            | Docker        | Bash      |
+| Programming Languages | Platforms        | Roles        |
+| --------------------- | ---------------- | ------------ |
+| Git                   | Docker           | Backend      |
+| Node JS               | HomeLab          | Bash         |
+| PHP                   | Linux            | Frontend     |
+| Python                | Network Admin    | Sys Admin    |
+| Wordpress             | VPS              | Remote Admin |
 
-From these Skills, I belive my best five are
-
-- PHP
-- Git
-- Backend Dev.
-- WordPress
-- Bash
 
 ---
 
