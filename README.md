@@ -23,7 +23,6 @@ genuine boon to society and individual content creators, driving progress and
 innovation in our ever-changing digital age.
 
 ## Skills
-|                |            |
 | -------------- | ---------- |
 | PHP            | Linux      |
 | Node JS        | HomeLab    |
