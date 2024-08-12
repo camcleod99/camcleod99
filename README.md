@@ -23,12 +23,12 @@ genuine boon to society and individual content creators, driving progress and
 innovation in our ever-changing digital age.
 
 ## Skills
-| Skill          | Since |
-| -------------- | ----- |
-| PHP            | 2009  |
-| Node JS        | 2015  |
-| Python         | 2019  |
-| Git and GitHub | 2020  |
+|                |            |
+| -------------- | ---------- |
+| PHP            | Linux      |
+| Node JS        | HomeLab    |
+| Python         | Networking |
+| Git and GitHub | Docker     |
 
 ---
 
