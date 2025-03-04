@@ -1,5 +1,5 @@
 # Craig A. McLeod
-_*Future Facing Web-Developer and Administrator*_
+_*Future Facing Developer and Website Admin*_
 
 ## CV
 Click [here](https://github.com/camcleod99/camcleod99/blob/86ff4c0d9ef790ca31bb90a3c12d4ac1f9c2dc84/CV_2024.pdf) to download the latest version of my CV
