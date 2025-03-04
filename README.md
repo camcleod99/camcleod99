@@ -5,22 +5,11 @@ _*Future Facing Web-Developer and Administrator*_
 Click [here](https://github.com/camcleod99/camcleod99/blob/86ff4c0d9ef790ca31bb90a3c12d4ac1f9c2dc84/CV_2024.pdf) to download the latest version of my CV
 
 ## About Me
-With over a decade of experience as a Web-based Software Engineer, I have honed
-my skills and expertise in the dynamic field of web development. By day, I am
-a dedicated website administrator for a prominent uniformed youth organization
-in the picturesque landscapes of Scotland. In my spare time, I channel my passion
-into my own Web development business, collaborating with a diverse array of
-clients across Scotland to enhance their digital operations and drive success.
+Worked for over a decade in the charity sector with Girls’ Brigade Scotland as the Website Support Officer. Served as a technical advisor and project overseer for revisions to the WordPress based website. I was also there for the transition from stock HTML to Drupal before our final shift to WordPress. Provided cus-tomer service primarily to older women who had varying levels of comfort with technology. Maintained the Girls’ Brigade website with a strong work ethic.
 
-<!--I am now seeking a thrilling opportunity that will enable me to relocate to
-the enchanting Netherlands, a country that has captured my heart with its vibrant
-culture, picturesque scenery, and innovative spirit.-->
-
-Additionally, I am deeply intrigued by the transformative potential of machine
-language models and their applications, or "AI", as marketing indivials have
-named them. I am keen on exploring how its proper application can serve as a
-genuine boon to society and individual content creators, driving progress and
-innovation in our ever-changing digital age.
+Provided consultancy and website development services as a self-employed professional, supporting com-panies with PHP focused website development, deployment, and project management. Successfully completed multiple projects and ensured smooth handovers.
+	
+Consistent with delivery, willing to stay updated on and explain in simple terms the latest technologies. Has an intense interest in future technologies such as AI (Generative Technologies; Copilot, ChatGPT, etc.), always courteous regardless of the circumstances.
 
 ## Skills
 | Programming Languages | Platforms        | Roles        |
