@@ -16,6 +16,3 @@ Seasoned web development professional with over a decade of experience in the ch
 
 ## Projects
 [List of all Projects](https://github.com/stars/camcleod99/lists/portfolio)
-
-## CV
-Click [here](https://github.com/camcleod99/camcleod99/blob/86ff4c0d9ef790ca31bb90a3c12d4ac1f9c2dc84/CV_2024.pdf) to download the latest version of my CV
