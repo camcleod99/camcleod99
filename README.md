@@ -1,14 +1,8 @@
 # Craig A. McLeod
 _*Future Facing Developer and Website Admin*_
 
-
-
 ## About Me
-Worked for over a decade in the charity sector with Girls’ Brigade Scotland as the Website Support Officer. Served as a technical advisor and project overseer for revisions to the WordPress based website. I was also there for the transition from stock HTML to Drupal before our final shift to WordPress. Provided cus-tomer service primarily to older women who had varying levels of comfort with technology. Maintained the Girls’ Brigade website with a strong work ethic.
-
-Provided consultancy and website development services as a self-employed professional, supporting com-panies with PHP focused website development, deployment, and project management. Successfully completed multiple projects and ensured smooth handovers.
-	
-Consistent with delivery, willing to stay updated on and explain in simple terms the latest technologies. Has an intense interest in future technologies such as AI (Generative Technologies; Copilot, ChatGPT, etc.), always courteous regardless of the circumstances.
+Seasoned web development professional with over a decade of experience in the charity sector and self-employed consultancy. Proven expertise in website support, technical advisory, and customer service, par-ticularly for audiences with varying levels of digital literacy. Adept at Web-focused development, project management, and platform migrations, with a strong work ethic and commitment to delivering reliable, user-friendly solutions. Passionate about emerging technologies, including AI and generative tools, with the ability to communicate complex concepts in an accessible manner.
 
 ## Skills
 | Programming Languages | Platforms        | Roles        |
